@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvamnaskar&label=Profile%20views&color=0e75b6&style=flat" alt="suvamnaskar" /> </p>
 
-- 🔭 I’m currently working on **Neuroverse 2024**
+- 🔭 I’m currently working on **CONFIEDNTIAL IoT Project**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **IoT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuvamNaskar/](https://github.com/SuvamNaskar/)
 
-- 📫 How to reach me **thisissuvam@gmail.com**
+- 📫 How to reach me **suvamnaskar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
