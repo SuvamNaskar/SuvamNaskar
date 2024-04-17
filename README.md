@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuvamNaskar/](https://github.com/SuvamNaskar/)
 
-- 📫 How to reach me **suvamnaskar.dev@gmail.com**
+- 📫 How to reach me **mail@suvamnaskar.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
