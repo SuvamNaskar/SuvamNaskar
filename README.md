@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Suvam Naskar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A C-O-D-E-R from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvamnaskar" alt="suvamnaskar" /></a> </p>
 <img align="right" width=400px src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvamnaskar&label=Profile%20views&color=0e75b6&style=flat" alt="suvamnaskar" /> </p>
 
-- 🔭 I’m currently working on **Socket Programming**
+- 🔭 I’m currently working on ** NA **
 
-- 🌱 I’m currently learning **MERN and Serverless**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuvamNaskar/](https://github.com/SuvamNaskar/)
 
-- 📫 How to reach me **mail@suvamnaskar.me**
+- 📫 How to reach me **suvamnaskar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
