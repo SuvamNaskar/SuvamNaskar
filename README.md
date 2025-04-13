@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvam Naskar</h1>
-<h3 align="center">A C-O-D-E-R from India</h3>
+<h3 align="center">A CODER from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvamnaskar" alt="suvamnaskar" /></a> </p>
 <img align="right" width=400px src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on ** NA **
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Django and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuvamNaskar/](https://github.com/SuvamNaskar/)
 
-- 📫 How to reach me **suvamnaskar.dev@gmail.com**
+- 📫 How to reach me **[suvamnaskar.dev@gmail.com](mailto:suvamnaskar.dev@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
