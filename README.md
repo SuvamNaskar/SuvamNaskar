@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvamnaskar&label=Profile%20views&color=0e75b6&style=flat" alt="suvamnaskar" /> </p>
 
-- 🔭 I’m currently working on ** NA **
+- 🔭 I’m currently working on ** Django and AWS **
 
-- 🌱 I’m currently learning **Django and ML**
+- 🌱 I’m currently learning **FastAPI and Project Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuvamNaskar/](https://github.com/SuvamNaskar/)
 
