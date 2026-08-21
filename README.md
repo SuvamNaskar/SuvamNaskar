@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS and Cloud Projects<br>👯 I’m looking to collaborate on AWS<br>🌱 I’m currently learning Deeper AWS technologies
+🔭 I’m currently working on Cryptography<br>👯 I’m looking to collaborate on AWS<br>🌱 I’m currently learning Deeper Computer Vision
 
 
 ## 🌐 Socials:
