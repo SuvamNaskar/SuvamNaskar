@@ -4,25 +4,23 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
+<img src="assets/portrait.svg" width="300" alt="Suvam Naskar, rendered as a dot matrix">
 
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/gargibhardwaj24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+<a href="https://github.com/SuvamNaskar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Suvam+Naskar;Cloud+Engineer;DevOps;AWS+Certified;Backend+Dev" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/gargibhardwaj24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gargibhardwaj2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/suvamnaskar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:suvamnaskar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://SuvamNaskar.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=SuvamNaskar&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -34,13 +32,12 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm **Suvam Naskar**. I design and manage scalable cloud infrastructures, build automated DevOps pipelines, and develop robust backend systems. I focus on making applications resilient, efficient, and secure.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+- Currently building **scalable backend systems and cloud infrastructure**
+- Portfolio: **[SuvamNaskar.github.io](https://SuvamNaskar.github.io)**
+- Learning **Advanced AWS Architecture Patterns & Infrastructure as Code (IaC)**
+- Fun fact: **I automate everything I possibly can so I never have to repeat myself!**
 
 <br>
 
@@ -48,7 +45,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=aws,java,mysql,postgres,mongodb,js,ts,nodejs,git,githubactions,github,vscode,html,css&perline=11" alt="tech stack">
 
 </div>
 
@@ -98,9 +95,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SuvamNaskar/SuvamNaskar/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuvamNaskar/SuvamNaskar/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/SuvamNaskar/SuvamNaskar/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
@@ -132,12 +129,15 @@ and I solve problems for fun when neither of those is cooperating.
 
 ---
 
+<!--
 <div align="center">
 
 ## `~/` selected work
 
-<!-- Cards generated by scripts/cards.py from assets/projects.json.
-     Stars, forks and language are pulled live from the API on every run. -->
+(Featured repositories are commented out for now since they are private. They can be restored in the future!)
+
+# Cards generated by scripts/cards.py from assets/projects.json.
+# Stars, forks and language are pulled live from the API on every run.
 <table>
 <tr>
 <td width="50%">
@@ -193,6 +193,7 @@ and I solve problems for fun when neither of those is cooperating.
 </sub>
 
 </div>
+-->
 
 ---
 

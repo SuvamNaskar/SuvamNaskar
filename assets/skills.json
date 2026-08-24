@@ -3,32 +3,36 @@
   "_comment": "PLACEHOLDER NUMBERS - these are inferred from the languages in your public repos, not from you. Edit them. Values are 0-100 and purely self-rated; 5-8 axes reads best.",
   "axes": [
     {
-      "label": "JavaScript",
-      "value": 88
+      "label": "AWS",
+      "value": 85
     },
     {
-      "label": "TypeScript",
-      "value": 80
-    },
-    {
-      "label": "React",
+      "label": "DevOps",
       "value": 82
     },
     {
-      "label": "Node / API",
-      "value": 74
+      "label": "Backend Dev",
+      "value": 80
     },
     {
-      "label": "Databases",
-      "value": 70
+      "label": "SQL & MySQL",
+      "value": 78
     },
     {
-      "label": "Python",
-      "value": 65
+      "label": "Java",
+      "value": 75
     },
     {
-      "label": "DSA",
-      "value": 72
+      "label": "GitHub Actions",
+      "value": 80
+    },
+    {
+      "label": "JavaScript",
+      "value": 78
+    },
+    {
+      "label": "TypeScript",
+      "value": 75
     }
   ]
 }
